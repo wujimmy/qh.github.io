@@ -1,2 +1,1 @@
-# qh.github.io
-stock study
+我自己用的记录用的
